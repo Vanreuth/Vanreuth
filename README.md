@@ -19,8 +19,7 @@ I'm a passionate web developer building dynamic, user-friendly applications with
 
 ---
 <br />
-<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
+<p align="center"><a href="https://github.com/Vanreuth" target="_blank"><img width="50%" alt="Hello, I'm Vanreuth. I do open source!" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fluffy-gif%2F934896560242%2F&psig=AOvVaw3Hf6pWu_vWl6oIOQRD_Syu&ust=1746420930006000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDbyIuDiY0DFQAAAAAdAAAAABAE" /></a></p>
 
-
-<img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
+<img alt="Vanreuth view count" width="20%" src="https://komarev.com/ghpvc/?username=Vanreuth&color=ff69b4&style=for-the-badge" />
 <br/>
