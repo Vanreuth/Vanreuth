@@ -1,7 +1,6 @@
-## Hi there 👋
-
-I'm a passionate web developer building dynamic, user-friendly applications with React and Node.js.
-
+### Hi there 👋
+🎓 I'm a final year Computer Science student at RUPP (Royal University of Phnom Penh). <br />
+🧑‍🏫 Former Frontend Development  Intership at KiloIT.<br />
 - 🔭 I’m currently working on a full-stack e-commerce platform.
 - 🌱 I’m learning advanced Redux patterns and TypeScript.
 - 📫 Reach me at [LinkedIn](https://linkedin.com/in/your-profile) or [my portfolio](https://Vanreuth.github.io).
