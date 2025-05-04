@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Heng Vanreuth!
 🎓 I'm a final year Computer Science student at RUPP (Royal University of Phnom Penh). <br />
 🧑‍🏫 Former Frontend Development  Intership at KiloIT.<br />
-🔭 I’m currently working on a full-stack e-commerce platform.
-🌱 I’m learning advanced Redux patterns and TypeScript.
-📫 Reach me at [LinkedIn](https://linkedin.com/in/your-profile) or [my portfolio](https://Vanreuth.github.io).
+🔭 I’m currently working on a full-stack e-commerce platform.<br />
+🌱 I’m learning advanced Redux patterns and TypeScript.<br />
+📫 Reach me at [LinkedIn](https://linkedin.com/in/your-profile) or [my portfolio](https://Vanreuth.github.io).<br />
 
 ## 🚀 Projects
 - [E-commerce App](https://github.com/Vanreuth/ecommerce): A React and Express.js app with product management and cart features.
