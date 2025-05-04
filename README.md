@@ -19,7 +19,7 @@ I'm a passionate web developer building dynamic, user-friendly applications with
 
 ---
 <br />
-<p align="center"><a href="https://github.com/Vanreuth" target="_blank"><img width="50%" alt="Hello, I'm Vanreuth. I do open source!" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fluffy-gif%2F934896560242%2F&psig=AOvVaw3Hf6pWu_vWl6oIOQRD_Syu&ust=1746420930006000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDbyIuDiY0DFQAAAAAdAAAAABAE" /></a></p>
+<p align="center"><a href="https://github.com/Vanreuth" target="_blank"><img width="50%" alt="Hello, I'm Vanreuth. I do open source!" src="https://media.giphy.com/media/l0Iyl55kTeh71nTWw/giphy.gif" /></a></p>
 
 <img alt="Vanreuth view count" width="20%" src="https://komarev.com/ghpvc/?username=Vanreuth&color=ff69b4&style=for-the-badge" />
 <br/>
